@@ -100,6 +100,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 /* สำหรับ Hamburger Icon */
 .hamburger {
     display: none;
@@ -133,3 +134,4 @@ nav ul {
         display: flex; /* แสดงเมนูเมื่อคลิก */
     }
 }
+
