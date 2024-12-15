@@ -121,7 +121,7 @@ nav ul {
     nav ul {
         display: none; /* ซ่อนเมนู */
         flex-direction: column;
-        background-color: #ffffff;
+        background-color: #4CAF50;
         position: absolute;
         top: 60px;
         left: 0;
