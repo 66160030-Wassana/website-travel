@@ -34,3 +34,13 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: auto;
+}
+
+h2 {
+    color: #4CAF50;
+    margin-bottom: 1rem;
+}
