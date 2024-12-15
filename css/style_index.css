@@ -44,3 +44,10 @@ h2 {
     color: #4CAF50;
     margin-bottom: 1rem;
 }
+article {
+    background: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(22, 21, 21, 0.1);
+    text-align: center;
+}
